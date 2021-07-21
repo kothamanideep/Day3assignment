@@ -1,0 +1,11 @@
+employees=[{"empid":1,"name":"mani","age":21,"dept":'cse',"sal":1200},
+{"empid":2,"name":"guru","age":21,"dept":'cse',"sal":1201},
+{"empid":3,"name":"venky","age":24,"dept":'cse',"sal":1202},
+{"empid":4,"name":"charan","age":25,"dept":'cse',"sal":1203},
+{"empid":5,"name":"reddy","age":26,"dept":'cse',"sal":1204},
+{"empid":6,"name":"top","age":27,"dept":'ese',"sal":1205},
+{"empid":7,"name":"liv","age":25,"dept":'cse',"sal":1206},
+{"empid":8,"name":"ram","age":24,"dept":'ese',"sal":1207},
+{"empid":9,"name":"sam","age":21,"dept":'ese',"sal":1208},
+{"empid":10,"name":"siri","age":21,"dept":'ese',"sal":1209}]
+print(employees)
